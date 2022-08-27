@@ -2,6 +2,6 @@ git add .
 
 git commit -m "%DATE%----%RANDOM%"
 
-git push origin master
+git push origin main
 
 pause
